@@ -14,15 +14,17 @@ Our mission: surface Kerala's most versatile innovators across Maker, Coder, Des
 </div>
 
 ## How to Participate
-## Step 1: Join the μLearn Community
 
-### Register on the μLearn Platform
+### Step 1: Join the μLearn Community
+
+#### Register on the μLearn Platform
 Join the μLearn Community by registering [here](https://app.mulearn.org/register).
 
-#### 📺 [Onboarding Video](https://www.youtube.com/watch?v=IwpOmzSqYao)
+#### Onboarding Video
+Watch the [Onboarding Video](https://www.youtube.com/watch?v=IwpOmzSqYao).
 > This video walks you through creating your μLearn account, joining the Discord server, and getting your MUID - watch it before proceeding!
 
-## Step 2: Get your MUID
+### Step 2: Get your MUID
 
 <img width="432" alt="Register on μLearn" src="./docs/assets/getmu.png">
 
@@ -30,74 +32,75 @@ Follow the onboarding workflow. Connect your Discord account during this process
 
 <img width="432" alt="Get your MUID" src="./docs/assets/muid.png">
 
-## Step 3: Claim Your Spot on the Pitch!
+### Step 3: Claim Your Spot on the Pitch
 
 The World Cup starts with your profile. Fork this repo, create your player card in the `/profile` directory, and step onto the field.
 
-### 🍴 1. Fork It!
+
+#### 1. Fork the Repository
 Fork [this repository](https://github.com/gtech-mulearn/mufifa-2026) to your own GitHub profile.
 
-### 📄 2. Name Your File!
+#### 2. Create Your Profile File
 Create a new Markdown file inside the `/profile` folder, named using your MUID - your squad number for the tournament:
 
 ```
 profile/yourname@mulearn.md
 ```
 
-### ✍️ 3. Fill It Out!
+#### 3. Fill Out Your Profile
 Use the provided template to build your player profile: [TEMPLATE.md](./TEMPLATE.md)
 
-### 🚀 4. Pull It!
+#### 4. Open a Pull Request
 Once ready, open a Pull Request targeting the `main` branch. Your card is now on the pitch!
 
-> 🌟 **Pro Tip:** Study [example@mulearn.md](./profile/sachinrajm@mulearn.md) to see what a great μFIFA profile looks like.
+> **Pro Tip:** Study [example@mulearn.md](./profile/sachinrajm@mulearn.md) to see what a great μFIFA profile looks like.
 
-## Step 4: Link Your μLearn Profile Card!
+### Step 4: Link Your μLearn Profile Card
 
 Your profile card is what shows your live karma rank and squad domain progress on the μLearn leaderboard. Don't skip this step!
 
-### 🔑 1. Get Your Embed Link
+#### 1. Get Your Embed Link
 Head to the [μLearn Discord server](https://discord.com/channels/771670169691881483/1157030408874106991), use the `/get-embed-link` command, and copy the link.
 
-### 📝 2. Update Your Markdown File
+#### 2. Update Your Profile Card Embed
 Paste the embed link into the **Profile Card** section at the bottom of your profile file.
 
-### 🚀 3. Pull It!
+#### 3. Open a Pull Request
 Open a Pull Request to `main`. Your live profile card will render immediately.
 
-#### 🏆 Your page is live!
+#### Your page is live!
 ```
 https://gtech-mulearn.github.io/uFIFA-World-Cup-2026/profile/[your-muid]
 ```
 
-## Step 5: Enter the Stadium!
+### Step 5: Enter the Stadium
 
-Welcome to the μFIFA Discord - your tournament home base. Here is your guide to the channels:
+Welcome to the μFIFA Discord - your tournament home base. Here is a guide to the key channels:
 
-### 📢 #μfifa-announcement
+#### #μfifa-announcement
 - **Purpose:** Your primary source of truth. Match week task releases, Nation standings, and Player of the Match awards - all here first.
 - **Tip:** Pin this channel.
 
-### 🤝 #μfifa-introduction
+#### #μfifa-introduction
 - **Purpose:** The changing room. Share your profile card link from this repository to introduce yourself to the community.
 - **Action:** Post your live profile page link with the hashtag `#mufifa2026-intro`.
 
-### 🚀 #μfifa-submission
+#### #μfifa-submission
 - **Purpose:** The match itself. Submit your completed tasks here with your MUID and deliverable links.
 - **Action:** Every submission is a shot on goal - make them count.
 
-### 🔊 μFIFA Watch Party (Voice Channel)
+#### μFIFA Watch Party (Voice Channel)
 - **Purpose:** The stadium seating. Join here for live calls, office hours, and matches.
 
-> In μFIFA, the best teams aren't just the most skilled - they're the most collaborative. Play your position, support your Nation, and enjoy the tournament. 🔥
+> In μFIFA, the best teams aren't just the most skilled - they're the most collaborative. Play your position, support your Nation, and enjoy the tournament.
 
-📝 **Note:** That's it - you're on the squad for μFIFA World Cup 2026! Watch `#μfifa-announcement` for match week kickoffs, task drops, and Nation standings. Mentors and Nation Managers are available to help you in the Discord server.
+**Note:** That's it - you're on the squad for μFIFA World Cup 2026! Watch `#μfifa-announcement` for match week kickoffs, task drops, and Nation standings. Mentors and Nation Managers are available to help you in the Discord server.
 
 > New to Markdown? Get up to speed here: [Introduction to Markdown](https://discord.com/channels/771670169691881483/1115381777792499805/1115727847647092808).
 
 ---
 
-## 🛡️ Profile Validation
+## Profile Validation
 
 Every profile is automatically checked - both on your machine before you commit, and on GitHub when you open a PR. You'll get clear error messages telling you exactly what to fix.
 
