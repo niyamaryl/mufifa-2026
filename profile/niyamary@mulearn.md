@@ -95,7 +95,7 @@ I look forward to connecting with students, developers, and innovators from diff
 
 **Immediate:** Improve my web development skills, complete internships, and build strong portfolio projects.
 
-**Long-term:** Become a skilled software developer specializing in Full Stack Development and Data Analytics while continuously contributing to technical communities.
+**Long-term:** Become a skilled software developer specializing in Full Stack Development  while continuously contributing to technical communities.
 
 ---
 
