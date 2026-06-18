@@ -4,7 +4,7 @@
 
 ### About Me
 
-I am Niya Mary L, a BTech Computer Science student at College of Engineering Kidangoor. I am interested in Full Stack Web Development and have completed a Full Stack Web Development bootcamp. I enjoy building web applications and learning new technologies through hands-on projects. My mini project, Intelligent Gym & Fitness Management System, helped me gain experience in web development and teamwork.
+I am Niya Mary L, a BTech Computer Science student at College of Engineering Kidangoor. I am interested in Full Stack Web Development and have completed a Full Stack Web Development bootcamp. I enjoy building web applications and learning new technologies through hands-on projects. My mini project, Intelligent Gym & Fitness Management System, helped me gain experience in web development and teamwork.I am also interested in sports and dance.
 
 ---
 
@@ -51,7 +51,7 @@ I am currently building my open-source profile. I have uploaded personal academi
 
 #### History of Community Engagement:
 
-I recently joined μLearn activities and technical communities to improve my skills and participate in collaborative learning opportunities.
+I recently joined μLearn activities and technical communities to improve my skills and participate in collaborative learning opportunities.I have interest in sports and dance which have helped me develop teamwork, confidence and communication skills
 
 #### Domain Profiles:
 
@@ -86,14 +86,15 @@ LinkedIn: Add your LinkedIn profile here if you have one.
 #### History of Leadership:
 
 I have participated in team-based academic projects and collaborated with classmates on software development tasks, helping coordinate project activities and submissions.
+i have participated in intercollege sports tournaments and intercollege dance competitions. I served as the captain of my volleyball team in intercollege competitions, where I was responsible for motivating team members, coordinating practice sessions and encouraging teamwork both on and off the court.
 
 #### Networking:
 
-I look forward to connecting with students, developers, and innovators from different domains through μFIFA and collaborating on meaningful projects.
+I look forward to connecting with students, developers,dancers and innovators from different domains through μFIFA and collaborating on meaningful projects.
 
 #### Career Plan:
 
-**Immediate:** Improve my web development skills, complete internships, and build strong portfolio projects.
+**Immediate:** Improve my web development skills,dance skills,complete internships, and build strong portfolio projects.
 
 **Long-term:** Become a skilled software developer specializing in Full Stack Development  while continuously contributing to technical communities.
 
